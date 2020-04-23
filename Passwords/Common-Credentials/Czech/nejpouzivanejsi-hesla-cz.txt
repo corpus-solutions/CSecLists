@@ -42,3 +42,10 @@ fotbal
 sparta
 slavia
 hesloheslo
+Heslo
+heslo123
+Heslo123
+heslo1234
+Heslo1234
+heslo12345
+Heslo12345
